@@ -1,0 +1,22 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 450px;
+  max-width: 300px;
+  justify-content: flex-start;
+  align-items: center;
+  background: var(--token-tpWKTTcNacvH);
+  overflow: hidden;
+  position: relative;
+  padding: 36px;
+}
+.h1 {
+  position: relative;
+  width: 253px;
+  height: auto;
+  max-width: 100%;
+  padding-right: 220px;
+  display: flex;
+  flex-direction: row;
+}

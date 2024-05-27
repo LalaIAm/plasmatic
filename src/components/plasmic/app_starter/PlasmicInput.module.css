@@ -1,0 +1,6 @@
+.input:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  width: 731px;
+  position: relative;
+}
